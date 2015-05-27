@@ -1,0 +1,9 @@
+Fichier contenant les medias
+
+C:\Users\Aidi Othmane\Documents\desktop.ini
+
+C:\Users\Aidi Othmane\Desktop\Theme.docx
+
+C:\Users\Public\Desktop\NetBeans IDE 7.3.1.lnk
+
+C:\Users\Public\Desktop\CCleaner.lnk

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<experiences>
+  <stimule type="1">
+    <media type="image">
+      <url>C:\Users\Public\Desktop\NetBeans IDE 7.3.1.lnk</url>
+      <question>Sqs</question>
+      <reponses type2="RadioButton">
+        <reponse>SQ</reponse>
+        <reponse />
+        <reponse>qS</reponse>
+      </reponses>
+    </media>
+  </stimule>
+</experiences>
